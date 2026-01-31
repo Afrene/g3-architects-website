@@ -25,3 +25,27 @@ multi cursor uses
 
 ---------------
 16 px = 1 rem
+
+-------------
+.fact*4>img.fat-icon+h4.fact-number+h5.fact-name
+
+<div class="fact">
+    <img src="" alt="" class="fat-icon">
+    <h4 class="fact-number"></h4>
+    <h5 class="fact-name"></h5>
+</div>
+<div class="fact">
+    <img src="" alt="" class="fat-icon">
+    <h4 class="fact-number"></h4>
+    <h5 class="fact-name"></h5>
+</div>
+<div class="fact">
+    <img src="" alt="" class="fat-icon">
+    <h4 class="fact-number"></h4>
+    <h5 class="fact-name"></h5>
+</div>
+<div class="fact">
+    <img src="" alt="" class="fat-icon">
+    <h4 class="fact-number"></h4>
+    <h5 class="fact-name"></h5>
+</div>
